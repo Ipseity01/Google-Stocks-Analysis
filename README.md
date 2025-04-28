@@ -2,7 +2,7 @@
 📈 Google Stock Analysis (2018-2024) - A comprehensive exploration of Alphabet Inc.'s stock performance featuring time series analysis, moving averages, volatility measurements, and correlation studies. Utilizes Python's data analysis stack for financial insights.
 
 ## 📁 Dataset
-- Source: [Kaggle](https://www.kaggle.com/datasets/[dataset-name]) 
+- Source: [Kaggle](https://www.kaggle.com) 
 - Contains daily stock data from 2018-01-02 to 2024-12-31
 - Features: Open, High, Low, Close prices, Volume, Adjusted Close, Dividends, Splits
 
